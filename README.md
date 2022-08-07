@@ -5,6 +5,10 @@ As with a lot of my projects, this started out as a game idea but once I got int
 There are a lot of edge cases and bugs that I still need to iron out, and I wanted to include a lot more UI elements (like graphs and color palettes and whatnot) but I never got around to it.<br>
 Still, I learned a lot about the design of event systems and how important the **specifics** of event propagation can be! I'm most proud of my 'button within a button' functionality and how hover and press events work as expected for the inner button :smiley:
 
+| ![demo](repo_images/demo.png) |
+|:--:|
+| <sub>Image: StatefulUI demo</sub> | 
+
 ## Third-Party Notices ##
 
 This project makes use of other people's stuff.<br>
